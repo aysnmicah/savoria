@@ -77,75 +77,11 @@
 </div>
 
 </section>
-  
-        <!-- Stats Section -->
-        <section id="stats" class="stats section dark-background">
+      
+</main>
 
-<img src="../../public/img/stats-bg.jpg" alt="" data-aos="fade-in">
-
-<div class="container position-relative" data-aos="fade-up" data-aos-delay="100">
-
-  <div class="row gy-4">
-
-    <div class="col-lg-3 col-md-6">
-      <div class="stats-item text-center w-100 h-100">
-        <span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="1" class="purecounter"></span>
-        <p>Clients</p>
-      </div>
-    </div><!-- End Stats Item -->
-
-    <div class="col-lg-3 col-md-6">
-      <div class="stats-item text-center w-100 h-100">
-        <span data-purecounter-start="0" data-purecounter-end="521" data-purecounter-duration="1" class="purecounter"></span>
-        <p>Projects</p>
-      </div>
-    </div><!-- End Stats Item -->
-
-    <div class="col-lg-3 col-md-6">
-      <div class="stats-item text-center w-100 h-100">
-        <span data-purecounter-start="0" data-purecounter-end="1453" data-purecounter-duration="1" class="purecounter"></span>
-        <p>Hours Of Support</p>
-      </div>
-    </div><!-- End Stats Item -->
-
-    <div class="col-lg-3 col-md-6">
-      <div class="stats-item text-center w-100 h-100">
-        <span data-purecounter-start="0" data-purecounter-end="32" data-purecounter-duration="1" class="purecounter"></span>
-        <p>Workers</p>
-      </div>
-    </div><!-- End Stats Item -->
-
-  </div>
-
-</div>
-
-</section>
-  
-        <!-- Gallery Section with Swiper -->
-        <section id="gallery" class="gallery section light-background">
-          <div class="container section-title" data-aos="fade-up">
-            <h2>Gallery</h2>
-            <p><span>Check</span> <span class="description-title">Our Gallery</span></p>
-          </div>
-          <div class="container" data-aos="fade-up" data-aos-delay="100">
-            <div class="swiper-container">
-              <div class="swiper-wrapper align-items-center">
-                <div class="swiper-slide"><a class="glightbox" ><img src="../../public/img/gallery/gallery-1.jpg" class="img-fluid" alt="Gallery 1"></a></div>
-                <div class="swiper-slide"><a class="glightbox" ><img src="../../public/img/gallery/gallery-2.jpg" class="img-fluid" alt="Gallery 1"></a></div>
-                <div class="swiper-slide"><a class="glightbox" ><img src="../../public/img/gallery/gallery-3.jpg" class="img-fluid" alt="Gallery 1"></a></div>
-                <div class="swiper-slide"><a class="glightbox" ><img src="../../public/img/gallery/gallery-4.jpg" class="img-fluid" alt="Gallery 1"></a></div>
-                <div class="swiper-slide"><a class="glightbox" ><img src="../../public/img/gallery/gallery-5.jpg" class="img-fluid" alt="Gallery 1"></a></div>
-                <div class="swiper-slide"><a class="glightbox" ><img src="../../public/img/gallery/gallery-6.jpg" class="img-fluid" alt="Gallery 1"></a></div>
-                <!-- Repeat for each gallery image -->
-              </div>
-              <div class="swiper-pagination"></div>
-            </div>
-          </div>
-        </section>
-      </main>
-  
-      <!-- Footer Section -->
-      <footer id="footer" class="footer dark-background">
+<!-- Footer Section -->
+<footer id="footer" class="footer dark-background">
 
 <div class="container">
   <div class="row gy-3">
