@@ -3,7 +3,8 @@ import IndexComponent from '../components/IndexComponent.vue';
 import MenuComponent from '../components/MenuComponent.vue';
 import AboutComponent from '../components/AboutComponent.vue';
 import ContactComponent from '../components/ContactComponent.vue';
-import BookComponent from '../components/BookComponent.vue';
+import BookComponent from '../components/BookComponent.vue'; 
+import EditMenuComponent from '../components/EditMenuComponent.vue';
 
 const routes = [
   { path: '/', name: 'Home', component: IndexComponent },
@@ -11,6 +12,7 @@ const routes = [
   { path: '/about', name: 'About', component: AboutComponent },
   { path: '/contact', name: 'Contact', component: ContactComponent },
   { path: '/book', name: 'Book', component: BookComponent },
+  { path: '/edit', name: 'Edit', component: EditMenuComponent },
 ];
 
 const router = createRouter({

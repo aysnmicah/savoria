@@ -12,52 +12,53 @@
               </div><!-- End Section Title -->
 
               <div class="container" data-aos="fade-up" data-aos-delay="100">
-
-                  <div class="mb-5">
-                      <iframe style="width: 100%; height: 400px;" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621" frameborder="0" allowfullscreen=""></iframe>
-                  </div><!-- End Google Maps -->
-
                   <div class="row gy-4">
 
-                      <div class="col-md-6">
-                          <div class="info-item d-flex align-items-center" data-aos="fade-up" data-aos-delay="200">
-                              <i class="icon bi bi-geo-alt flex-shrink-0"></i>
-                              <div>
-                                  <h3>Address</h3>
-                                  <p>A108 Adam Street, New York, NY 535022</p>
-                              </div>
-                          </div>
-                      </div><!-- End Info Item -->
+                    <div class="mb-5">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d61619.472289973135!2d120.51841942983971!3d15.146421814933115!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3396f286eed2e61f%3A0x3ded82248ad9b436!2sAngeles%2C%20Pampanga!5e0!3m2!1sen!2sph!4v1730012303081!5m2!1sen!2sph" width="100%" height="400px" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                    </div><!-- End Google Maps -->
 
-                      <div class="col-md-6">
-                          <div class="info-item d-flex align-items-center" data-aos="fade-up" data-aos-delay="300">
-                              <i class="icon bi bi-telephone flex-shrink-0"></i>
-                              <div>
-                                  <h3>Call Us</h3>
-                                  <p>+1 5589 55488 55</p>
-                              </div>
-                          </div>
-                      </div><!-- End Info Item -->
+                <div class="row gy-4">
 
-                      <div class="col-md-6">
-                          <div class="info-item d-flex align-items-center" data-aos="fade-up" data-aos-delay="400">
-                              <i class="icon bi bi-envelope flex-shrink-0"></i>
-                              <div>
-                                  <h3>Email Us</h3>
-                                  <p>info@example.com</p>
-                              </div>
-                          </div>
-                      </div><!-- End Info Item -->
+                    <div class="col-md-6">
+                    <div class="info-item d-flex align-items-center" data-aos="fade-up" data-aos-delay="200">
+                        <i class="icon bi bi-geo-alt flex-shrink-0"></i>
+                        <div>
+                        <h3>Address</h3>
+                        <p>#123 Street Angeles City, Pampanga</p>
+                        </div>
+                    </div>
+                    </div><!-- End Info Item -->
 
-                      <div class="col-md-6">
-                          <div class="info-item d-flex align-items-center" data-aos="fade-up" data-aos-delay="500">
-                              <i class="icon bi bi-clock flex-shrink-0"></i>
-                              <div>
-                                  <h3>Opening Hours<br></h3>
-                                  <p><strong>Mon-Sat:</strong> 11AM - 23PM; <strong>Sunday:</strong> Closed</p>
-                              </div>
-                          </div>
-                      </div><!-- End Info Item -->
+                    <div class="col-md-6">
+                    <div class="info-item d-flex align-items-center" data-aos="fade-up" data-aos-delay="300">
+                        <i class="icon bi bi-telephone flex-shrink-0"></i>
+                        <div>
+                        <h3>Call Us</h3>
+                        <p>+1 5589 55488 55</p>
+                        </div>
+                    </div>
+                    </div><!-- End Info Item -->
+
+                    <div class="col-md-6">
+                    <div class="info-item d-flex align-items-center" data-aos="fade-up" data-aos-delay="400">
+                        <i class="icon bi bi-envelope flex-shrink-0"></i>
+                        <div>
+                        <h3>Email Us</h3>
+                        <p>savoria@gmail.com</p>
+                        </div>
+                    </div>
+                    </div><!-- End Info Item -->
+
+                    <div class="col-md-6">
+                    <div class="info-item d-flex align-items-center" data-aos="fade-up" data-aos-delay="500">
+                        <i class="icon bi bi-clock flex-shrink-0"></i>
+                        <div>
+                        <h3>Opening Hours<br></h3>
+                        <p><strong>Mon-Sat:</strong> 11AM - 10PM; <strong>Sunday:</strong> Closed</p>
+                        </div>
+                    </div>
+                    </div><!-- End Info Item -->
 
                   </div>
 
@@ -92,6 +93,7 @@
                   </form>
 
               </div>
+              </div>
 
           </section><!-- /Contact Section -->
 
@@ -99,62 +101,63 @@
 
       <footer id="footer" class="footer dark-background">
 
-          <div class="container">
-              <div class="row gy-3">
-                  <div class="col-lg-3 col-md-6 d-flex">
-                      <i class="bi bi-geo-alt icon"></i>
-                      <div class="address">
-                          <h4>Address</h4>
-                          <p>#123 Street</p>
-                          <p>Angeles City, Pampanga, PH</p>
-                          <p></p>
-                      </div>
-                  </div>
+<div class="container">
+  <div class="row gy-3">
+    <div class="col-lg-3 col-md-6 d-flex">
+      <i class="bi bi-geo-alt icon"></i>
+      <div class="address">
+        <h4>Address</h4>
+        <p>#123 Street</p>
+        <p>Angeles City, Pampanga, PH</p>
+        <p></p>
+      </div>
 
-                  <div class="col-lg-3 col-md-6 d-flex">
-                      <i class="bi bi-telephone icon"></i>
-                      <div>
-                          <h4>Contact</h4>
-                          <p>
-                              <strong>Phone:</strong> <span>+1 5589 55488 55</span><br>
-                              <strong>Email:</strong> <span>info@example.com</span><br>
-                          </p>
-                      </div>
-                  </div>
+    </div>
 
-                  <div class="col-lg-3 col-md-6 d-flex">
-                      <i class="bi bi-clock icon"></i>
-                      <div>
-                          <h4>Opening Hours</h4>
-                          <p>
-                              <strong>Mon-Sat:</strong> <span>11AM - 23PM</span><br>
-                              <strong>Sunday</strong>: <span>Closed</span>
-                          </p>
-                      </div>
-                  </div>
+    <div class="col-lg-3 col-md-6 d-flex">
+      <i class="bi bi-telephone icon"></i>
+      <div>
+        <h4>Contact</h4>
+        <p>
+          <strong>Phone:</strong> <span>+1 5589 55488 55</span><br>
+          <strong>Email:</strong> <span>savoria@gmail.com</span><br>
+        </p>
+      </div>
+    </div>
 
-                  <div class="col-lg-3 col-md-6">
-                      <h4>Follow Us</h4>
-                      <div class="social-links d-flex">
-                          <a href="#" class="twitter"><i class="bi bi-twitter-x"></i></a>
-                          <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
-                          <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
-                          <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></a>
-                      </div>
-                  </div>
+    <div class="col-lg-3 col-md-6 d-flex">
+      <i class="bi bi-clock icon"></i>
+      <div>
+        <h4>Opening Hours</h4>
+        <p>
+          <strong>Mon-Sat:</strong> <span>11AM - 23PM</span><br>
+          <strong>Sunday</strong>: <span>Closed</span>
+        </p>
+      </div>
+    </div>
 
-              </div>
-          </div>
+    <div class="col-lg-3 col-md-6">
+      <h4>Follow Us</h4>
+      <div class="social-links d-flex">
+        <a href="#" class="twitter"><i class="bi bi-twitter-x"></i></a>
+        <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
+        <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
+        <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></a>
+      </div>
+    </div>
 
-          <div class="container copyright text-center mt-4">
-              <p>© <span>Copyright</span> <strong class="px-1 sitename">Savoria</strong> <span>All Rights Reserved</span></p>
-          </div>
-
-      </footer>
-
-      <!-- Scroll Top -->
-      <a href="#" id="scroll-top" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
   </div>
+</div>
+
+<div class="container copyright text-center mt-4">
+  <p>© <span>Copyright</span> <strong class="px-1 sitename">Savoria</strong> <span>All Rights Reserved</span></p>
+</div>
+
+</footer>
+
+<!-- Scroll Top -->
+<a href="#" id="scroll-top" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+</div>
 </template>
 
 <script>

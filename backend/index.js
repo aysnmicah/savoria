@@ -3,6 +3,9 @@ const cors = require('cors');
 const mongoose = require('mongoose');
 const bodyParser = require('body-parser');
 const createError = require('http-errors');
+const path = require('path');
+
+
 
 // Connect to MongoDB
 mongoose
@@ -16,8 +19,10 @@ mongoose
 
 const contactAPI = require('./routes/contact.route'); 
 const bookAPI = require('./routes/booking.route'); 
+const menuRoutes = require('./routes/menu.route');
 
 const app = express();
+app.use('/uploads', express.static(path.join(__dirname, 'uploads')));
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(cors());
@@ -25,6 +30,7 @@ app.use(cors());
 // API
 app.use('/api', contactAPI);  
 app.use('/api', bookAPI); 
+app.use('/menu', menuRoutes);
 
 // Log incoming requests for debugging
 app.use((req, res, next) => {

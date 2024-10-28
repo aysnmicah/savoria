@@ -8,7 +8,7 @@
               <div class="col-lg-5 order-2 order-lg-1 d-flex flex-column justify-content-center">
                 <h1 data-aos="fade-up">Enjoy Your Healthy<br>Delicious Food</h1>
                 <p data-aos="fade-up" data-aos-delay="100">
-                  We are team of talented designers making websites with Bootstrap
+                  Fresh, flavorful, and wholesome meals that nourish your body and delight your taste buds
                 </p>
                 <div class="d-flex" data-aos="fade-up" data-aos-delay="200">
                   <router-link to="/book" class="btn-get-started">Book a Table</router-link>
@@ -33,8 +33,7 @@
       <div class="why-box">
         <h3>Why Choose Savoria</h3>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit
-          Asperiores dolores sed et. Tenetur quia eos. Autem tempore quibusdam vel necessitatibus optio ad corporis.
+          Savoria offers fresh, locally sourced ingredients in innovative, flavorful dishes, making healthy eating enjoyable for everyone. With a warm atmosphere and a commitment to sustainability, we’re your go-to spot for nutritious meals that support your well-being and the planet.
         </p>
         <div class="text-center">
           <a href="./about" class="more-btn"><span>Learn More</span> <i class="bi bi-chevron-right"></i></a>
@@ -47,25 +46,25 @@
 
         <div class="col-xl-4">
           <div class="icon-box d-flex flex-column justify-content-center align-items-center">
-            <i class="bi bi-clipboard-data"></i>
-            <h4>Corporis voluptates officia eiusmod</h4>
-            <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p>
+            <i class="bi bi-heart"></i>
+            <h4>Nutrient-Rich Meals</h4>
+            <p>Our menu is designed to provide balanced, nutrient-dense meals that are both delicious and nourishing.</p>
           </div>
         </div><!-- End Icon Box -->
 
         <div class="col-xl-4" data-aos="fade-up" data-aos-delay="300">
           <div class="icon-box d-flex flex-column justify-content-center align-items-center">
-            <i class="bi bi-gem"></i>
-            <h4>Ullamco laboris ladore lore pan</h4>
-            <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
+            <i class="bi bi-currency-dollar"></i>
+            <h4>Affordable Pricing</h4>
+            <p>Enjoy wholesome, delicious meals without overspending. We believe healthy eating should be accessible to everyone</p>
           </div>
         </div><!-- End Icon Box -->
 
         <div class="col-xl-4" data-aos="fade-up" data-aos-delay="400">
           <div class="icon-box d-flex flex-column justify-content-center align-items-center">
-            <i class="bi bi-inboxes"></i>
-            <h4>Labore consequatur incidid dolore</h4>
-            <p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere</p>
+            <i class="bi bi-emoji-grin"></i>
+            <h4>Customized Options</h4>
+            <p>Choose from a range of customizable meals to fit your dietary preferences, whether it’s vegan, gluten-free, or low-carb</p>
           </div>
         </div><!-- End Icon Box -->
 
@@ -102,7 +101,7 @@
         <h4>Contact</h4>
         <p>
           <strong>Phone:</strong> <span>+1 5589 55488 55</span><br>
-          <strong>Email:</strong> <span>info@example.com</span><br>
+          <strong>Email:</strong> <span>savoria@gmail.com</span><br>
         </p>
       </div>
     </div>
@@ -136,10 +135,10 @@
 </div>
 
 </footer>
-  
-      <!-- Scroll Top Button -->
-      <a href="#" id="scroll-top" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
-    </div>
+
+<!-- Scroll Top -->
+<a href="#" id="scroll-top" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+</div>
   </template>
   
   <script>

@@ -23,22 +23,20 @@
                 <div class="col-lg-5" data-aos="fade-up" data-aos-delay="250">
                 <div class="content ps-0 ps-lg-5">
                     <p class="fst-italic">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-                    magna aliqua.
+                        Welcome to Savoria, where healthy eating meets delicious flavor! We are passionate about providing our community with nutritious meals that nourish both body and soul. Here’s what sets us apart:
                     </p>
                     <ul>
-                    <li><i class="bi bi-check-circle-fill"></i> <span>Ullamco laboris nisi ut aliquip ex ea commodo consequat.</span></li>
-                    <li><i class="bi bi-check-circle-fill"></i> <span>Duis aute irure dolor in reprehenderit in voluptate velit.</span></li>
-                    <li><i class="bi bi-check-circle-fill"></i> <span>Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</span></li>
+                    <li><i class="bi bi-check-circle-fill"></i> <span>Fresh, Locally-Sourced Ingredients</span></li>
+                    <li><i class="bi bi-check-circle-fill"></i> <span>Nutritionally Balanced Menus</span></li>
+                    <li><i class="bi bi-check-circle-fill"></i> <span>Commitment to Sustainability</span></li>
                     </ul>
                     <p>
-                    Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-                    velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident
+                        We invite you to join us on our journey to make healthy eating accessible and enjoyable. Explore our menu and discover the delicious options we have to offer!
                     </p>
 
                     <div class="position-relative mt-4">
                     <img src="../../public/img/about-2.jpg" class="img-fluid" alt="">
-                    <a href="https://www.youtube.com/watch?v=Y7f98aduVJ8" class="glightbox pulsating-play-btn"></a>
+                    <a href="https://www.youtube.com/watch?v=Os-v8F0yX1o" class="glightbox pulsating-play-btn"></a>
                     </div>
                 </div>
                 </div>
@@ -75,7 +73,7 @@
                     <div class="member-info">
                     <h4>Walter White</h4>
                     <span>Master Chef</span>
-                    <p>Velit aut quia fugit et et. Dolorum ea voluptate vel tempore tenetur ipsa quae aut. Ipsum exercitationem iure minima enim corporis et voluptate.</p>
+                    <p>Chef Walter leads our kitchen with 15 of experience in crafting healthy, innovative dishes. Their focus on local ingredients and seasonal flavors ensures a menu that delights the palate while prioritizing nutrition.</p>
                     </div>
                 </div>
                 </div><!-- End Chef Team Member -->
@@ -94,7 +92,7 @@
                     <div class="member-info">
                     <h4>Sarah Jhonson</h4>
                     <span>Patissier</span>
-                    <p>Quo esse repellendus quia id. Est eum et accusantium pariatur fugit nihil minima suscipit corporis. Voluptate sed quas reiciendis animi neque sapiente.</p>
+                    <p>Chef Sarah specializes in creating healthy desserts that are both indulgent and guilt-free. With expertise in pastry arts, they transform wholesome ingredients into delicious treats, from gluten-free cakes to sugar-free pastries.</p>
                     </div>
                 </div>
                 </div><!-- End Chef Team Member -->
@@ -113,7 +111,7 @@
                     <div class="member-info">
                     <h4>William Anderson</h4>
                     <span>Cook</span>
-                    <p>Vero omnis enim consequatur. Voluptas consectetur unde qui molestiae deserunt. Voluptates enim aut architecto porro aspernatur molestiae modi.</p>
+                    <p>Chef William is a passionate cook dedicated to preparing and plating nutritious dishes. With a strong culinary foundation, they bring creativity to our kitchen, ensuring every meal is flavorful and visually appealing.</p>
                     </div>
                 </div>
                 </div><!-- End Chef Team Member -->
@@ -128,56 +126,56 @@
 
         <footer id="footer" class="footer dark-background">
 
-        <div class="container">
-        <div class="row gy-3">
-            <div class="col-lg-3 col-md-6 d-flex">
-            <i class="bi bi-geo-alt icon"></i>
-            <div class="address">
-                <h4>Address</h4>
-                <p>#123 Street</p>
-                <p>Angeles City, Pampanga, PH</p>
-                <p></p>
-            </div>
+<div class="container">
+  <div class="row gy-3">
+    <div class="col-lg-3 col-md-6 d-flex">
+      <i class="bi bi-geo-alt icon"></i>
+      <div class="address">
+        <h4>Address</h4>
+        <p>#123 Street</p>
+        <p>Angeles City, Pampanga, PH</p>
+        <p></p>
+      </div>
 
-            </div>
+    </div>
 
-            <div class="col-lg-3 col-md-6 d-flex">
-            <i class="bi bi-telephone icon"></i>
-            <div>
-                <h4>Contact</h4>
-                <p>
-                <strong>Phone:</strong> <span>+1 5589 55488 55</span><br>
-                <strong>Email:</strong> <span>info@example.com</span><br>
-                </p>
-            </div>
-            </div>
+    <div class="col-lg-3 col-md-6 d-flex">
+      <i class="bi bi-telephone icon"></i>
+      <div>
+        <h4>Contact</h4>
+        <p>
+          <strong>Phone:</strong> <span>+1 5589 55488 55</span><br>
+          <strong>Email:</strong> <span>savoria@gmail.com</span><br>
+        </p>
+      </div>
+    </div>
 
-            <div class="col-lg-3 col-md-6 d-flex">
-            <i class="bi bi-clock icon"></i>
-            <div>
-                <h4>Opening Hours</h4>
-                <p>
-                <strong>Mon-Sat:</strong> <span>11AM - 23PM</span><br>
-                <strong>Sunday</strong>: <span>Closed</span>
-                </p>
-            </div>
-            </div>
+    <div class="col-lg-3 col-md-6 d-flex">
+      <i class="bi bi-clock icon"></i>
+      <div>
+        <h4>Opening Hours</h4>
+        <p>
+          <strong>Mon-Sat:</strong> <span>11AM - 23PM</span><br>
+          <strong>Sunday</strong>: <span>Closed</span>
+        </p>
+      </div>
+    </div>
 
-            <div class="col-lg-3 col-md-6">
-            <h4>Follow Us</h4>
-            <div class="social-links d-flex">
-                <a href="#" class="twitter"><i class="bi bi-twitter-x"></i></a>
-                <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
-                <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
-                <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></a>
-            </div>
-            </div>
+    <div class="col-lg-3 col-md-6">
+      <h4>Follow Us</h4>
+      <div class="social-links d-flex">
+        <a href="#" class="twitter"><i class="bi bi-twitter-x"></i></a>
+        <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
+        <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
+        <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></a>
+      </div>
+    </div>
 
-        </div>
-        </div>
+  </div>
+</div>
 
-        <div class="container copyright text-center mt-4">
-        <p>© <span>Copyright</span> <strong class="px-1 sitename">Savoria</strong> <span>All Rights Reserved</span></p>
+<div class="container copyright text-center mt-4">
+  <p>© <span>Copyright</span> <strong class="px-1 sitename">Savoria</strong> <span>All Rights Reserved</span></p>
 </div>
 
 </footer>
